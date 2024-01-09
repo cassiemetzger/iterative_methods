@@ -1,4 +1,4 @@
-#include"problem1.h"
+#include"iterative_methods.h"
 #include<iostream> 
 #include<cmath> 
 #include<fstream>
